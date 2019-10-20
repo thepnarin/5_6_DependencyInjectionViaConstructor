@@ -1,0 +1,13 @@
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\5_6_DependencyInjectionViaConstructor.exe.config
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\5_6_DependencyInjectionViaConstructor.exe
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\5_6_DependencyInjectionViaConstructor.pdb
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\EntityFramework.dll
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\EntityFramework.SqlServer.dll
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\Newtonsoft.Json.dll
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\EntityFramework.xml
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\EntityFramework.SqlServer.xml
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\bin\Debug\Newtonsoft.Json.xml
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\obj\Debug\5_6_DependencyInjectionViaConstructor.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\obj\Debug\5_6_DependencyInjectionViaConstructor.csproj.CopyComplete
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\obj\Debug\5_6_DependencyInjectionViaConstructor.exe
+D:\[OOP] - Object Oriented Programming\Test\5_6_DependencyInjectionViaConstructor\5_6_DependencyInjectionViaConstructor\obj\Debug\5_6_DependencyInjectionViaConstructor.pdb
